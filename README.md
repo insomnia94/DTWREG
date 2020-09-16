@@ -16,18 +16,18 @@ All pre-trained models and related data can be downloaded [here](https://drive.g
 
 ## Generate the Triads
 ```bash
-python ./tools/prepro_rel.py
+python ./tools/prepro_rel.py --dataset refcoco --splitBy unc
 ```
 
 ## Training
 
 ```bash
-python ./tools/train.py
+python ./tools/train.py --dataset refcoco --splitBy unc --exp_id 1
 ```
 
 ## Evaluation
 
 ```bash
-python ./eval.py 
+python ./eval.py --dataset refcoco --splitBy unc --split val --id 1
 ```
 
