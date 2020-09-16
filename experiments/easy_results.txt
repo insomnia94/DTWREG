@@ -1,0 +1,60 @@
+
+[refcoco_unc][val], id[mrcn_cmr_with_st]'s acc is 85.57%
+[refcoco_unc][testA], id[mrcn_cmr_with_st]'s acc is 85.95%
+[refcoco_unc][testB], id[mrcn_cmr_with_st]'s acc is 84.36%
+
+[refcoco+_unc][val], id[mrcn_cmr_with_st]'s acc is 71.71%
+[refcoco+_unc][testA], id[mrcn_cmr_with_st]'s acc is 74.28%
+[refcoco+_unc][testB], id[mrcn_cmr_with_st]'s acc is 66.27%
+
+[refcocog_umd][val], id[mrcn_cmr_with_st]'s acc is 78.96%
+[refcocog_umd][test], id[mrcn_cmr_with_st]'s acc is 78.51%
+[exp0]: [refcoco_unc][val], id[exp0]'s acc is 7.81%
+[0]: [refcoco_unc][val], id[0]'s acc is 7.81%
+[0]: [refcoco_unc][testA], id[0]'s acc is 2.25%
+[0]: [refcoco_unc][testB], id[0]'s acc is 13.78%
+[0]: [refcoco_unc][val], id[0]'s acc is 33.70%
+[0]: [refcoco_unc][testA], id[0]'s acc is 33.00%
+[0]: [refcoco_unc][testB], id[0]'s acc is 35.00%
+[0]: [refcoco_unc][val], id[0]'s acc is 38.94%
+[0]: [refcoco_unc][testA], id[0]'s acc is 37.85%
+[0]: [refcoco_unc][testA], id[0]'s acc is 21.87%
+[0]: [refcoco_unc][testA], id[0]'s acc is 34.75%
+[0]: [refcoco_unc][testA], id[0]'s acc is 27.84%
+[0]: [refcoco_unc][testB], id[0]'s acc is 39.61%
+[0]: [refcoco_unc][val], id[0]'s acc is 33.15%
+[0]: [refcoco_unc][val], id[0]'s acc is 38.94%
+[0]: [refcoco_unc][testA], id[0]'s acc is 37.85%
+[0]: [refcoco_unc][testB], id[0]'s acc is 40.39%
+[0]: [refcoco_unc][testB], id[0]'s acc is 40.39%
+[0]: [refcoco_unc][testA], id[0]'s acc is 32.88%
+[0]: [refcoco_unc][testA], id[0]'s acc is 36.61%
+[1]: [refcoco_unc][testA], id[1]'s acc is 38.75%
+[1]: [refcoco_unc][testB], id[1]'s acc is 30.30%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 22.79%
+[1]: [refcoco+_unc][testA], id[1]'s acc is 33.71%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 33.05%
+[1]: [refcoco+_unc][val], id[1]'s acc is 23.80%
+[1]: [refcoco+_unc][testA], id[1]'s acc is 23.07%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 25.10%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 25.14%
+[1]: [refcoco+_unc][testA], id[1]'s acc is 8.96%
+[1]: [refcoco+_unc][testA], id[1]'s acc is 7.44%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 23.22%
+[1]: [refcoco+_unc][val], id[1]'s acc is 14.49%
+[1]: [refcoco+_unc][val], id[1]'s acc is 18.12%
+[1]: [refcoco+_unc][testA], id[1]'s acc is 13.64%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 23.71%
+[1]: [refcoco+_unc][val], id[1]'s acc is 32.19%
+[1]: [refcoco+_unc][val], id[1]'s acc is 27.81%
+[1]: [refcoco+_unc][val], id[1]'s acc is 27.81%
+[1]: [refcoco+_unc][val], id[1]'s acc is 32.01%
+[1]: [refcoco+_unc][val], id[1]'s acc is 31.60%
+[1]: [refcoco+_unc][testA], id[1]'s acc is 33.97%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 31.68%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 31.68%
+[1]: [refcoco+_unc][testA], id[1]'s acc is 33.97%
+[1]: [refcoco_unc][testA], id[1]'s acc is 31.68%
+[1]: [refcoco_unc][testB], id[1]'s acc is 28.56%
+[1]: [refcoco_unc][testA], id[1]'s acc is 41.10%
+[1]: [refcoco+_unc][testB], id[1]'s acc is 38.07%
