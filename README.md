@@ -9,7 +9,7 @@
 
 ## Installation the environment
 
-Please first refer to [MattNet](https://github.com/insomnia94/MAttNet) to prepare related data.
+Please first refer to [MattNet](https://github.com/insomnia94/MAttNet) to prepare related data. Human annotated triads can be downloaded [here](https://drive.google.com/drive/folders/1G3V0NaHnit7omephox_sXTUcedyoa_16?usp=sharing).
 
 ## Pre-trained models
 All pre-trained models and related data can be downloaded [here](https://drive.google.com/drive/folders/12HAUdAYNnz6ubiwywcrOEKrVCLiOPiFV).
