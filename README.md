@@ -1,6 +1,3 @@
-## Preliminary code for reviewers only
-
-
 ## Prerequisites
 
 * Python 2.7
